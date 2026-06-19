@@ -13,4 +13,4 @@ A few things I've built:
 - **[tabletail](https://github.com/danmorcov88/tabletail)** : `tail -f` and `git diff`, but for Postgres tables
 - **[pgslow](https://github.com/danmorcov88/pgslow)** : a read-only CLI that finds and explains slow Postgres queries
 
-I'm based in Chișinău, open to data engineering roles both here in Moldova and remote. You can reach me at danmorcov88@gmail.com or on [LinkedIn](https://linkedin.com/in/dan-morcov-780064161).
+I'm based in Chișinău, open to data engineering roles on remote. You can reach me at danmorcov88@gmail.com or on [LinkedIn](https://linkedin.com/in/dan-morcov-780064161).
